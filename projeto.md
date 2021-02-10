@@ -10,6 +10,7 @@ Apresentamos o algorimto base para a criação de árvores de pesquisa binária.
 
 - Algortimo Base
 - Apresentação da árvore
+- Projeto está disponível no GIT da disciplina: [Árvore Binária de Pesquisa](https://github.com/netuh/ed2-implementacao)
 
 # Descrição do Projeto
 
