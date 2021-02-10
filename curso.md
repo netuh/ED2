@@ -4,25 +4,24 @@ title: Curso
 subtitle: "Descrição do Curso"
 ---
 
-Para atingir os nossos Objetivos de Aprendizagem, o curso é organizado nas 5 etapas a seguir.
+Para atingir os nossos Objetivos de Aprendizagem, o curso é organizado nas 2 etapas a seguir.
 
-# Primeira Etapa: Análise de Algoritmos
+# Primeira Etapa: Estrururas de Árvore
 
-Inicialmente, é apresentada a motivação para a aprender orientação a objeto em detrimento à programação estruturada. O objetivo é fazer com que o aluno compreenda que desenvolver projetos complexos através de programação estruturada torna o desenvolvimento muito difícil. Posteriormente, são abordadas as bases para orientação a objetos e como devem ser usadas.
+Inicialmente, é apresentada a motivação para a aprender as principais estruturas de dados baseadas em árvores. O objetivo é fazer com que o aluno compreenda que desenvolver os diversos algortimos para implementar as diferentes abordagens.
 
 Assuntos: 
-- Orientação a Objeto
-- Distinção de classe e objeto
-- Herança
-- Visibilidade
-- Polimorfismo
+- Árvores Binárias de Pesquisa
+- Árvores AST 
+- Árvores Preto e Vermelho
+- Árvores 2-3
+- Árvores B e B+
 
-# Segunda Etapa: Algoritmos de Ordenação
+# Segunda Etapa: Hashing e Arquivos
 
-O foco nessa etapa está no projeto, implementação e análise tratando de problemas cada vez mais complexos. A ideia é não somente entender as estratégias utilizadas, mas também ter uma ideia clara de suas eficiências e classes de complexidade.
+Aprenderemos os diferenres algoritmos para manipular tabelas hashing. Bem como formas de manipular arquivos de maneira eficiente. Além disso, veremos os princiapais algoritmos de ordenação.
 
 Assuntos:
-- Arquitetura de Software
-- Expressões Lambda
-- Bad Smells
-- Padrões de Projeto
+- Algoritmos de Ordenação
+- Hashing e Hash Table
+- Arquivos indexados
