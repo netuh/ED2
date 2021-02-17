@@ -6,23 +6,22 @@ subtitle: "Descrição do Curso"
 
 Para atingir os nossos Objetivos de Aprendizagem, o curso é organizado nas 5 etapas a seguir.
 
-# Primeira Etapa: Análise de Algoritmos
+# Primeira Etapa: Árvores Balanceadas
 
-Inicialmente, é apresentada a motivação para a aprender orientação a objeto em detrimento à programação estruturada. O objetivo é fazer com que o aluno compreenda que desenvolver projetos complexos através de programação estruturada torna o desenvolvimento muito difícil. Posteriormente, são abordadas as bases para orientação a objetos e como devem ser usadas.
+Uma árvore binária de busca balanceada ou árvore binária de busca auto-balanceada é qualquer árvore de busca binária que automaticamente mantém a sua altura (número máximo de níveis abaixo da raiz) pequeno mesmo depois de sucessivas inserções e exclusões arbitrárias
 
 Assuntos: 
-- Orientação a Objeto
-- Distinção de classe e objeto
-- Herança
-- Visibilidade
-- Polimorfismo
+- Árvores AVL
+- Árvores Preto e Vermelho
+- Árvores B
+- Árvores B+
+- Árvores Multiplas
 
-# Segunda Etapa: Algoritmos de Ordenação
+# Segunda Etapa: Algoritmos de Ordenação, Tabelas Hash e Arquivos
 
-O foco nessa etapa está no projeto, implementação e análise tratando de problemas cada vez mais complexos. A ideia é não somente entender as estratégias utilizadas, mas também ter uma ideia clara de suas eficiências e classes de complexidade.
+Nessa etapa aprenderemos as formas mais eficientes de usar Listas e Filas. Além de uma estrutura de dados nova e seu uso com arquivos.
 
 Assuntos:
-- Arquitetura de Software
-- Expressões Lambda
-- Bad Smells
-- Padrões de Projeto
+- Algortimos de Ordenação
+- Tabelas Hash
+- Manipulação de Arquivos
