@@ -4,23 +4,15 @@ title: Bibliografia
 subtitle: "Bibliografia Recomendada"
 ---
 
-# Livro 1
+# Bibliografia Básica
+- CORMEN, Thomas H.; LEISERSON, Charles E.; RIVEST, Ronald L.; STEIN, Clifford. **Algoritmos: teoria e prática.** 3. ed. Rio de Janeiro: Elsevier, 2012.
+- GOODRICH, Michael T. **Estruturas de dados & algoritmos em Java.** 5. ed. Porto Alegre: Bookman, 2013.
+- SZWARCFITER, Jayme Luiz. **Estruturas de dados e seus algoritmos**. 3. ed. Rio de Janeiro: LTC, 2010.
 
-Inicialmente, é apresentada a motivação para a aprender orientação a objeto em detrimento à programação estruturada. O objetivo é fazer com que o aluno compreenda que desenvolver projetos complexos através de programação estruturada torna o desenvolvimento muito difícil. Posteriormente, são abordadas as bases para orientação a objetos e como devem ser usadas.
 
-Assuntos: 
-- Orientação a Objeto
-- Distinção de classe e objeto
-- Herança
-- Visibilidade
-- Polimorfismo
-
-# Livro 2
-
-O foco nessa etapa está no projeto, implementação e análise tratando de problemas cada vez mais complexos. A ideia é não somente entender as estratégias utilizadas, mas também ter uma ideia clara de suas eficiências e classes de complexidade.
-
-Assuntos:
-- Arquitetura de Software
-- Expressões Lambda
-- Bad Smells
-- Padrões de Projeto
+# Bibliografia Complementar 
+- DROZDEK, Adam. **Estrutura de dados e algoritmos em C++**. 2. ed. São Paulo: Cengage Learning, 2018.
+- KOFFMAN, Elliot B. **Objetos, abstração, estrutura de dados e projeto usando C++.** Rio de Janeiro: LTC, 2008.
+- MORAES, Celso Roberto. **Estruturas de dados e algoritmos: uma abordagem didática**. 2. ed. São Paulo: Futura, 2003.
+- PEREIRA, Silvio do Lago. **Estruturas de dados fundamentais: conceitos e aplicações**. 12. ed. São Paulo: Érica, 2012.
+- ZIVIANI, Nivio. **Projeto de algoritmos: com implementações em JAVA e C++.** São Paulo: Cengage Learning, 2012.
