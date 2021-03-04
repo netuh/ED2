@@ -11,7 +11,7 @@ Uma árvore binária é uma estrutura de dados caracterizada por:
 - Ou tem um elemento distinto, denominado raiz, com dois ponteiros para duas estruturas diferentes, denominadas subárvore esquerda e subárvore direita.
 
 Todas as outras formas de usar devem usar como base a implementação base disponibilizada:
-- [Árvore Binária](https://github.com/netuh/ed2-implementacao/tree/main/ArvoreBinariaDePesquisa)
+- [Árvore Binária](https://github.com/netuh/ed2-implementacao/tree/main/Aula2-ArvoreBinariaDePesquisa)
 
 # Informações Importantes
 
