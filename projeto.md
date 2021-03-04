@@ -17,7 +17,7 @@ Todas as outras formas de usar devem usar como base a implementação base dispo
 
 ## Sobre Equipes
 
-- Equipes vem ser formadas por até 2 Alunos (NÃO SÃO ACEITAS EQUIPES COM MAIS DE 2)
+- Equipes vem ser formadas por até 3 Alunos (NÃO SÃO ACEITAS EQUIPES COM MAIS DE 3)
 - Membros podem ser trocados ou incluídos nas equipes
 - Os próprios alunos são responsáveis em incluir os elementos no seguinte ***link***
 
